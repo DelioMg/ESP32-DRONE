@@ -36,7 +36,7 @@ O ESP32-Drone é um projeto DIY (faça você mesmo) que utiliza um ESP32 para co
    - Conecte a bateria ao ESP32 do controle remoto.
 
 3. **Configuração de Software:**
-   - Faça o download e configure o ambiente de desenvolvimento para ESP32 (por exemplo, Arduino IDE ou PlatformIO).
+   - Faça o download e configure o ambiente de desenvolvimento para ESP32 Arduino IDE.
    - Carregue o código para o ESP32 do drone e para o ESP32 do controle remoto.
 
 ## Como Usar
